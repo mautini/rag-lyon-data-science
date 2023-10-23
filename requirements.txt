@@ -1,0 +1,2 @@
+google-cloud-aiplatform==1.35.0
+qdrant-client==1.6.3
